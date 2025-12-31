@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Kwon Jung 🫶🏻
+## Kwon Jung
 
 <div>📝 프로젝트 </div>
 <div><sub>블록체인 투표 시스템</sub></div>
